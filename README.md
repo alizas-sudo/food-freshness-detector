@@ -27,12 +27,12 @@ This is a mini project for Theory of Computation IA2 demonstrating:
 - Real-world application of AI
 
 ## 📧 Contact
-[Your Name] - [Your Email]
+[Aliza Shaikh] - [alizaashkk28@gmail.com]
 
-**University:** [Your College Name]
+**University:** [KJ SOMAIYA COLLEGE OF ENGINEERING]
 ```
 
-4. **Click "Commit changes"**
+
 
 ### D. Copy Your Repository Link
 
